@@ -1,0 +1,263 @@
+[06-Nov-2020 22:48:10 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 519
+[06-Nov-2020 22:48:10 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 527
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:10 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 542
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:10 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 558
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:10 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 573
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:10 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 588
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:10 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 604
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:10 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 625
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:10 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 639
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:10 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 655
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:10 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 670
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:10 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 690
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:10 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 704
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:10 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 719
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:10 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 739
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:10 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 753
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:10 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:12 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 519
+[06-Nov-2020 22:48:12 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 527
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:12 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 542
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:12 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 558
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:12 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 573
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:12 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 588
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:12 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 604
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:12 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 625
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:12 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 639
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:12 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 655
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:12 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 670
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:12 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 690
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:12 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 704
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:12 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 719
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:12 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 739
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:12 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 753
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:12 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:18 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 519
+[06-Nov-2020 22:48:18 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 527
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:18 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 542
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:18 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 558
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:18 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 573
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:18 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 588
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:18 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 604
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:18 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 625
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:18 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 639
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:18 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 655
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:18 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 670
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:18 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 690
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:18 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 704
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:18 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 719
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:18 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 739
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[06-Nov-2020 22:48:18 UTC] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Usuario.php on line 753
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant HOST already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 6
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant DBNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 7
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant USERNAME already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 8
+[06-Nov-2020 22:48:18 UTC] PHP Notice:  Constant PASSWORD already defined in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/config/Conexion.php on line 9
+[08-Nov-2020 20:04:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Conexion::closeConnection() in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Email.php:12
+Stack trace:
+#0 /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Controller/recuperaClave.php(7): Email->validaEmail('admin@gmail.es')
+#1 {main}
+  thrown in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Email.php on line 12
+[08-Nov-2020 20:04:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Conexion::closeConnection() in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Email.php:12
+Stack trace:
+#0 /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Controller/recuperaClave.php(7): Email->validaEmail('admin@gmail.es')
+#1 {main}
+  thrown in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Email.php on line 12
+[08-Nov-2020 20:04:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Conexion::closeConnection() in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Email.php:12
+Stack trace:
+#0 /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Controller/recuperaClave.php(7): Email->validaEmail('admin@gmail.es')
+#1 {main}
+  thrown in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Email.php on line 12
+[08-Nov-2020 20:04:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Conexion::closeConnection() in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Email.php:12
+Stack trace:
+#0 /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Controller/recuperaClave.php(7): Email->validaEmail('admin@gmail.es')
+#1 {main}
+  thrown in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Email.php on line 12
+[08-Nov-2020 20:04:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Conexion::closeConnection() in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Email.php:12
+Stack trace:
+#0 /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Controller/recuperaClave.php(7): Email->validaEmail('admin@gmail.es')
+#1 {main}
+  thrown in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Email.php on line 12
+[08-Nov-2020 20:04:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Conexion::closeConnection() in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Email.php:12
+Stack trace:
+#0 /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Controller/recuperaClave.php(7): Email->validaEmail('')
+#1 {main}
+  thrown in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Email.php on line 12
+[08-Nov-2020 20:05:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Conexion::closeConnection() in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Email.php:12
+Stack trace:
+#0 /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Controller/recuperaClave.php(7): Email->validaEmail('admin@gmail.es')
+#1 {main}
+  thrown in /home/u206809020/domains/juntadeaguapilalo.com/public_html/dashboard/Model/Email.php on line 12
